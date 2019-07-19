@@ -1,0 +1,37 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "" )
+call BlzSendSyncData("SnL_ter", "-16000.000@-11968.000@-19616.000@-17696.000@")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_ter", "@4844444h4840404g4c484d4h4g44454g44292929292929294g484g4848484c4h4548404d4h4g4h404c4244444h4c484g4h4c4829292929294ge9e949")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_ter", "@4g44444e484h4d4c444440404g4c4h40444g40404c4849292929292929e9e9e9e9e9e9e9e9484h484h4g4c4448484g404g4h4h484g44292929292929")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_ter", "@2929e9e9e9e9e9e9e9e940444g404c404c4442404h40484g4c4c292929292929292929e9e9e9e9e9e9e9e94d4c4d4g414h4e4c44484g4c4c4g484029")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_ter", "@2929292929292929e9e9e9e9e9e9e9e94h4840444h494h404h4h48e9e9e9e9292929e9e9e9e9e9e9e929e9e949454c44494h484g4h4c44404h4c484g")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_ter", "@e9e9e9e9e9e9e9e9e9e9e9e9e94h29e94449404h4g494h404g4h4h484h4c444c45e9e9e9e9e9e9e9e9e9e9e9e9e9e94h294h4448484h424c48444444")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_ter", "@4g4g4c4g404g4c4048292929294h4h4h4h4h4h4h29294c4h4044484c444h4c4h4042484h44404h4g4040292929294h4h4h4h4h4h29292929404h404h")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_ter", "@444h4eb4bgbgbc444c4h4g484h4c4c4h294h4h4h4h4h4h4h29292929294h44404e404048bhb6bcb0b04h4h4h4c4h4h4g294h4h4h4h4h292929292929")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_ter", "@2940484844414g404gbcbcbhbcb8424h494h4h4h4h294h4h4h292929292929292929b0b4bg48404g4444bhbgb4b1bgbcb84h4h4h4h4h434h4h4h4h29")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_ter", "@2929bcbg29b8b4bhb8b0bcb0b2b840b8444c48b1b84h4h4h4h4h4h49294h4h292929bcb8bgb0b1bcbcb8b8bfbcbcb4b04h")
+//" )
+	call PreloadEnd( 0.1 )
+
+endfunction
+
+

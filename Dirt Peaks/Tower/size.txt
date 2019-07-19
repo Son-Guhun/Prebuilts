@@ -1,0 +1,10 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "" )
+call BlzSendSyncData("SnL_IOsize", "21")
+//" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

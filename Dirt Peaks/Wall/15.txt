@@ -1,0 +1,31 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "" )
+call BlzSendSyncData("SnL_unit", "h0NL,-14304.000,-17984.000,0.000,0.000,D,D,D,D,D,D,D,D,2")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_unit", "h0NL,-14240.000,-19712.000,0.000,0.000,D,255,255,255,0,D,D,D,2")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_unit", "h0NL,-14080.000,-19168.000,0.000,270.000,D,255,255,255,0,D,D,D,2")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_unit", "h0NL,-14144.000,-18208.000,0.000,90.000,D,255,255,255,0,D,D,D,2")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_unit", "h0NL,-14144.000,-18784.000,0.000,270.000,D,D,D,D,D,D,D,D,2")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_unit", "h0NL,-14432.000,-17920.000,0.000,180.000,D,255,255,255,0,D,D,D,2")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_unit", "h05Y,-13888.000,-17792.000,0.000,225.000,D,D,D,D,D,D,D,D,0")
+//" )
+	call Preload( "" )
+call BlzSendSyncData("SnL_unit", "h05X,-13952.000,-18432.000,0.000,270.000,D,D,D,D,D,D,D,D,0")
+//" )
+	call PreloadEnd( 0.5 )
+
+endfunction
+
+
